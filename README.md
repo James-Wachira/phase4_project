@@ -108,9 +108,13 @@ This project leverages **Natural Language Processing (NLP)** and **machine learn
 
 
 Project by: Wachira James
+           
             Tim Musungu
+           
             Vivian Kwamboka
+            
             Clvin Mutua
+           
             Hashim Ibrahim
 
 
